@@ -57,7 +57,7 @@ def show_curriculo_pt():
     Mobile do RS (2016-2019) e participou de eventos como palestrante e coordenador de trilhas no TDC.
     """)
 
-    st.header("EDUCAÇÃO CONTI8NUADA")
+    st.header("EDUCAÇÃO CONTINUADA")
     st.write("""
     - Cursando pós-graduação em Inteligência Artificial (FIAP, 2025).  
     - Graduação em Análise e Desenvolvimento de Software (UNISINOS, 2019).
