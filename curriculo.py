@@ -21,12 +21,7 @@ def show_curriculo_pt():
 
     st.header("Resumo")
     st.write("""
-    Márcio Brufatto é um desenvolvedor de software com +13 anos de experiência, especializado em iOS desde o iPhone 4. 
-    Ao longo dessa jornada, trabalhou em empresas como uMov.me, Makadu, Zup Innovation, Act Digital e TIVIT, desenvolvendo 
-    e mantendo aplicativos móveis para grandes bancos e outros projetos. Ele também tem experiência no desenvolvimento web, 
-    com ênfase em Python e PostgreSQL, além de ser empreendedor, fundando a DeliveryVeg em 2014. Atualmente, cursa pós-graduação 
-    em Inteligência Artificial na FIAP e se dedica ao estudo de SwiftUI e IA. Além disso, tem um histórico ativo em comunidades 
-    de tecnologia, com destaque para a coordenação do Grupo de Usuários Mobile do Rio Grande do Sul entre 2016 e 2019.
+    Sou Márcio Brufatto, desenvolvedor de software com mais de 13 anos de experiência, especializado em iOS desde o lançamento do iPhone 4. Durante minha trajetória, tive a oportunidade de trabalhar em empresas como uMov.me, Makadu, Zup Innovation, Act Digital e TIVIT, onde desenvolvi e mantive aplicativos móveis para grandes bancos, além de contribuir em outros projetos importantes. Também possuo experiência em desenvolvimento web, com foco em Python e PostgreSQL, e sou empreendedor — fundei a DeliveryVeg em 2014. Atualmente, estou cursando uma pós-graduação em Inteligência Artificial na FIAP e me dedicando aos estudos de SwiftUI e IA. Tenho ainda um histórico ativo em comunidades de tecnologia, destacando minha atuação como coordenador do Grupo de Usuários Mobile do Rio Grande do Sul entre 2016 e 2019.
     """)
 
     st.header("EXPERIÊNCIA PROFISSIONAL DESTACADA")
@@ -83,13 +78,7 @@ def show_curriculo_en():
 
     st.header("SUMMARY")
     st.write("""
-    Márcio Brufatto is a software developer with +13 years of experience, specializing in iOS since the iPhone 4. 
-    Throughout this journey, he has worked at companies such as uMov.me, Makadu, Zup Innovation, Act Digital and TIVIT, 
-    developing and maintaining mobile applications for large banks and other projects. He also has experience in web 
-    development, with an emphasis on Python and PostgreSQL, and is an entrepreneur, having founded DeliveryVeg in 2014. 
-    He is currently studying for a postgraduate degree in Artificial Intelligence at FIAP and is dedicated to the study of SwiftUI 
-    and AI. In addition, he has an active history in technology communities, with emphasis on coordinating the Rio Grande do Sul Mobile 
-    User Group between 2016 and 2019.
+    I'm Márcio Brufatto, a software developer with over 13 years of experience, specializing in iOS since the launch of the iPhone 4. During my career, I had the opportunity to work at companies such as uMov.me, Makadu, Zup Innovation, Act Digital and TIVIT, where I developed and maintained mobile applications for large banks, in addition to contributing to other important projects. I also have experience in web development, with a focus on Python and PostgreSQL, and I'm an entrepreneur — I founded DeliveryVeg in 2014. I'm currently studying a postgraduate degree in Artificial Intelligence at FIAP and dedicating myself to studying SwiftUI and AI. I also have an active history in technology communities, highlighting my role as coordinator of the Rio Grande do Sul Mobile User Group between 2016 and 2019.
     """)
 
     st.header("OUTSTANDING PROFESSIONAL EXPERIENCE")
