@@ -14,7 +14,7 @@ def show_curriculo_pt():
     
     with col1:
         st.title("Márcio H. Brufatto")
-        st.write("Brasileiro, solteiro, 43 anos  \nFlorianópolis – SC  \n**Telefone:** (51) 98461-9504  \n**E-mail:** mhbrufatto@gmail.com")
+        st.write("Brasileiro, solteiro, 42 anos  \nFlorianópolis – SC  \n**Telefone:** (51) 98461-9504  \n**E-mail:** mhbrufatto@gmail.com")
     
     with col2:
         st.image("foto.png", width=150, caption="Márcio H. Brufatto")  # Ajuste o nome e caminho da imagem
